@@ -9,6 +9,12 @@
 </head>
 
 <body>
+  <div class="navigation bar">
+    <a href="index.php">Home</a>
+    <a href="about.php">About</a>
+    <a href="contact.php">Contact</a>
+  </div>
+
   <div class="two-column-container">
     <div class="column">
       <h1 class="test-formatting">Here is a fish</h1>
@@ -56,6 +62,29 @@
         <li>Blows bubbles when he’s happy.</li>
       </ul>
     </div>
+  </div>
+  <div class="php-links">
+    <h2 style="background-color: lightgray;">Chapter 1 PHP Files</h2>
+    <ul>
+      <li><a href="textbook-code/ch01/comments.php">comments.php</a></li>
+      <li><a href="textbook-code/ch01/concat.php">concat.php</a></li>
+      <li><a href="textbook-code/ch01/constants.php">constants.php</a></li>
+      <li><a href="textbook-code/ch01/first.php">first.php</a></li>
+      <li><a href="textbook-code/ch01/hello.php">hello.php</a></li>
+      <li><a href="textbook-code/ch01/numbers.php">numbers.php</a></li>
+      <li><a href="textbook-code/ch01/predefined.php">predefined.php</a></li>
+      <li><a href="textbook-code/ch01/quotes.php">quotes.php</a></li>
+      <li><a href="textbook-code/ch01/second.php">second.php</a></li>
+      <li><a href="textbook-code/ch01/strings.php">strings.php</a></li>
+      <li><a href="textbook-code/ch01/test.php">test.php</a></li>
+    </ul>
+    <h2 style="background-color: lightgray;">Chapter 2 PHP Files</h2>
+    <ul>
+      <li><a href="textbook-code/ch02/calendar.php">calendar.php</a></li>
+      <li><a href="textbook-code/ch02/handle_form.php">handle_form.php</a></li>
+      <li><a href="textbook-code/ch02/multi.php">multi.php</a></li>
+      <li><a href="textbook-code/ch02/sorting.php">sorting.php</a></li>
+    </ul>
   </div>
 </body>
 
