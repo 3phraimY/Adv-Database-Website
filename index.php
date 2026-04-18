@@ -63,6 +63,9 @@
       </ul>
     </div>
   </div>
+
+  <p>Visit the videogame forum: <a href="./final-project/create-post.php">Videogame Forum</a></p>
+
   <p>PHP function: <a href="csc4060.php">CSC4060</a></p>
 
   <div class="php-links">
